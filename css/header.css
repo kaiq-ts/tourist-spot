@@ -1,0 +1,13 @@
+#title-page h1 {
+    margin-top: 8px;
+}
+
+#description-img img {
+    margin-top: 40px;
+}
+
+#description-img p {
+    font-style: italic;
+    text-align: center;
+    margin: 24px 0 40px;
+}
