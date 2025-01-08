@@ -28,6 +28,7 @@ body {
     font: var(--text-paragraph);
     background-color: var(--background-default);
     color: var(--text-secondary);
+    width: 90vw;
     max-width: 1120px;
     margin: 0 auto;
 }
